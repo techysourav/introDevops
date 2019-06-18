@@ -21,7 +21,7 @@
 </head>
 <style>
 .btn-xl {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 700;
     padding: 20px 40px;
     border-radius: 3px;
