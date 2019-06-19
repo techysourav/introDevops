@@ -14,7 +14,7 @@
   <name>Autoplant Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
-    	<!-- https://mvnrepository.com/artifact/javax.servlet/jstl 
+    	<!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>jstl</artifactId>
